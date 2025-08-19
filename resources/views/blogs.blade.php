@@ -30,8 +30,8 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-      <h2>Starter Section</h2>
-      <div><span>Check Our</span> <span class="description-title">Starter Section</span></div>
+      <h2>Blogs Section</h2>
+      <div><span>Check Our</span> <span class="description-title">Blog Section</span></div>
     </div><!-- End Section Title -->
 
     {{-- bootstrap blogs start --}}
